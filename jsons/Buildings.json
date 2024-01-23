@@ -23,3 +23,38 @@
 		"requiredTech": "Engineering"
 	}
 ]
+
+
+
+
+
+
+
+
+		"name": "Svaneti Tower",
+		"replaces": "Castle",
+		"uniqueTo": "Georgia",
+		"cityStrength": 30,
+		"cityHealth": 150,
+		"cost": 100,
+		"happiness": 3,
+		"culture": 4,
+		"Faith": 4,
+		"hurryCostModifier": 20,
+		"uniques": ["[+5]% of [food] [in all Cities]","Destroyed when the city is captured"],
+		"requiredBuildingInCity": "Walls",
+		"requiredTech": "Chivalry"
+	},
+	{
+		"name": "Tsikhe",
+		"replaces": "Walls",
+		"uniqueTo": "Georgia",
+		"cityStrength": 20,
+		"cityHealth": 70,
+		"cost": 40,
+		"hurryCostModifier": 20,
+		"happiness": 2,
+		"culture": 3,
+		"Faith": 4,
+		"uniques": ["[+5]% of [Culture] [in all Cities","Destroyed when the city is captured"],
+		"requiredTech": "Mosanry"
